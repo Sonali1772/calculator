@@ -6,14 +6,14 @@
     width:50;
     height:50;
     font-size: 25;
-    margin: 2;
+    margin: 2.1;
     cursor: pointer;
 }
 .textview{
     width:217;
     margin:5;
     font-size: 25;
-    padding:5;
+    padding:6;
     
 }
 .main{
